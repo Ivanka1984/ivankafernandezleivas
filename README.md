@@ -1,4 +1,3 @@
-# ivankafernandezleivas
 # 👋 ¡Hola! Soy Ivanka Fernández Leivas
 
 Apasionada por la **ciberseguridad** y especializada en la implementación de soluciones **DevSecOps**, me dedico a crear entornos seguros y automatizados para el desarrollo de software. Me encanta trabajar con herramientas como Docker, GitLab CI/CD, SonarQube, y soluciones OWASP.
@@ -33,6 +32,12 @@ Apasionada por la **ciberseguridad** y especializada en la implementación de so
 
 ---
 
+## 🎓 En formación continua
+
+Actualmente me encuentro completando mi formación en **Ciberseguridad y DevSecOps**, desarrollando proyectos reales mientras fortalezco mis conocimientos en herramientas, procesos y buenas prácticas del sector.
+
+---
+
 ## 📫 ¿Cómo contactarme?
 
 - LinkedIn: [linkedin.com/in/ivankafernandezleivas](https://www.linkedin.com/in/ivankafernandezleivas)
@@ -50,3 +55,4 @@ Actualmente trabajando en:
 ---
 
 > *“La seguridad no es un producto, sino un proceso.”* — Bruce Schneier
+
